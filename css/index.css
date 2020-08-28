@@ -1,7 +1,8 @@
 body{
-background-color: burlywood;
+background-color: black;
 
 }
+
 .container {
     border: 1px solid black;
     color: white;
@@ -25,13 +26,22 @@ img{
     width: 200px;
 }
 
-p{
+h1{
 font-size: 25px;
+color: blanchedalmond;
 text-decoration: underline brown;
 font-weight: bold;
 margin-bottom: 8vw;
-
 }
+
+h3{
+    font-size: 18px;
+    color: blanchedalmond;
+    text-decoration: underline brown;
+    font-weight: bold;
+}
+
+
 .footer{
     position: sticky;
     margin-top: 100%;
